@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "transmitter/transmitter.ino",
+    "port": "/dev/ttyACM0",
+    "programmer": "avrispmkii"
+}
